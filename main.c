@@ -23,6 +23,4 @@ int main(int argc, char **argv)
     }
     printf("Voltage = %3.6f\r\n",Voltage);
 	return 0; // Return code for function
-    
-    // this is branch1
 }
