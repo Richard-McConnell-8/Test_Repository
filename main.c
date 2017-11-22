@@ -21,7 +21,8 @@ int main(int argc, char **argv)
     {
         Voltage += Calc_Result[index];
     }
-    printf("Voltage = %3.6f\r\n",Voltage);
-	return 0;
-    // This is branch1
+    printf("Voltage = %3.6f\r\n",Voltage);ew
+	return 0; // Return code for function
+    
+    // this is branch1
 }
